@@ -1,4 +1,4 @@
-# QASM OMAX (Max/MSP)
+# QImp (Max/MSP)
 
 ## 🎯 Overview
 
