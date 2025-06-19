@@ -1,4 +1,4 @@
-# QImp (Max/MSP)
+# QASM OMAX (Max/MSP)
 
 ## 🎯 Overview
 
@@ -7,13 +7,12 @@ This repository contains a quantum-inspired generative system implemented in Max
 - Quantum gate sequencing via JavaScript (`qasm_omax.js`)
 - A minimal local simulator derived from microQiskit (`micro_qiskit_omax.js`)
 - Patchers for spectral processing and control:
-  - `0.QImp.maxpat`
-   -`demantisa.js`
+  - `0.caparazon.maxpat`
   - `fftfilter1.maxpat`
   - `fftfilter2.maxpat`
   - `pffttotal.maxpat`
   - `zsa.totalabstraction~.maxpat`
- - Audio descriptors via `zsa~`
+- Audio descriptors via `zsa~`
 - Spatial reverb with `hiss.convolver~` from the HISSTools IR Toolbox
 - Interface logic in `demantisa.js`
 

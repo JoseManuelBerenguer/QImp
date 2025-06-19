@@ -1,0 +1,27 @@
+# Max/MSP autosave and backup files
+*~
+*.autosave
+*.backup
+*.tmp
+
+# Max preferences and state
+prefs.txt
+# datasets
+*.coll
+
+# Paquets de Max (no pujar-los)
+Packages/
+# Històric de treball i versions locals
+.maxhistory
+.maxlog
+
+# Sistemes operatius i editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Fitxers binaris i temporals
+*.o
+*.a
+*.so
