@@ -1,0 +1,8 @@
+*Abstract*
+
+
+QImp It’s the echo of an impenetrable universe —a sonic artifact that inhabits the boundary between the known and the unreachable. It exists as the expression of an impenetrable world —a creation that is a-human, transcending human senses, unfolding before us as an enigma. Its eight quantum rotations, filtered through sound and musical descriptors, are reshaped by an unexpected oracle that inserts itself in the code like a dark sigh. The resulting QASM circuit, processed by the micro‑Qiskit simulator, generates a 256‑dimensional complex state vector that materializes in an anti‑human space: FFT filters warp the noise, MIDI control steers an evoking distant stars reverberated piano.
+
+It is then that the paradox becomes tangible: it presents itself to humans as an unfinished artifact, a fragment of reality that, within 49 ms, traverses the boundary between intention and chaos. What we hear is quantum entanglement sonically expressed : interdependent structures resonating with each other, like echoes from a universe that defies our logic.
+
+It does not aim to be a human gesture; this piece breathes beyond us, rhythmically irrational, a tremor of anti‑intuition. QImp becomes an inverted mirror: we are not the ones creating it; instead, it reveals our inability to comprehend it. In this realm, music ceases to be a human gesture and becomes an inhuman gesture —a sonic presence that surpasses our empathy, inviting us, without promise, to listen to something from an unfathomable dimension.
